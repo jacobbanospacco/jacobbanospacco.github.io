@@ -2,7 +2,7 @@
 
 > See live demo: [https://jacobbanospacco.github.io/](https://jacobbanospacco.github.io/)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
-![Developer Portoflio](https://github.com/itsvijaysingh/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
+![Developer Portoflio](https://github.com/jacobbanospacco/jacobbanospacco.github.io/blob/main/assets/images/Readme.png)
 
 
 Hi there! I'm Jacob, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
