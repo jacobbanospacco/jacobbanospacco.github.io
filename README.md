@@ -9,10 +9,10 @@ Hi there! I'm Jacob, and this is my portfolio website code built with HTML, CSS,
 
 > 🚀 Got a cool project idea or need some work done? I'm open to collaborations! Feel free to shoot me an email at jacob.banos@unmsm.edu.pe, and let's chat over a virtual coffee ☕😊.
 
-Want to learn more about me and my projects? Check out my full profile on GitHub:
+> Want to learn more about me and my projects? Check out my full profile on GitHub:
 🔗 github.com/jacobbanospacco
 
-Always excited for new opportunities and challenges! 💡💻
+> Always excited for new opportunities and challenges! 💡💻
 
 ## **Portfolio Features:**
 
